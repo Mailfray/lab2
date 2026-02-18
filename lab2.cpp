@@ -3,7 +3,7 @@
 #include <clocale>
 using namespace std;
 
-// УПРАЖНЕНИЕ 2: Ссылки и Указатели 
+// УПРАЖНЕНИЕ 2: Ссылки и Указатели. 
 void changeValues(int& a, int* b, int newVal1, int newVal2) {
     a = newVal1;
     *b = newVal2;
